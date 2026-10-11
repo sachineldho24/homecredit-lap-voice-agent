@@ -4,7 +4,7 @@ SalesAgents AI hiring assignment (AI Intern, Prompt Engineer). This is a voice a
 
 **Platform:** Retell AI. There are two single-prompt agents, English and Hindi, running GPT 5.6 Terra with the ElevenLabs "Monika" voice (Indian English, female), plus the built-in `end_call` tool.
 
-**Showcase page (recordings playable inline, transcripts, prompt):** https://claude.ai/artifact/LXMCMoqjS2jCNfYX2pbsMY
+**Live site (recordings playable inline, transcripts, prompt):** https://sachineldho24.github.io/homecredit-lap-voice-agent/
 
 ## Start here
 
