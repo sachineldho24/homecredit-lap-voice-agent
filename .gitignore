@@ -1,0 +1,6 @@
+.env
+**/.env
+__pycache__/
+harness/results/
+*.pyc
+SUBMISSION_MESSAGE_DRAFT.md
